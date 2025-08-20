@@ -1,0 +1,17 @@
+# Node
+node_modules/
+*.log
+
+# Backend
+ecommerce/backend/.env
+backend/.env
+
+# Frontend
+frontend/dist/
+frontend/.env
+
+# Editor/OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
